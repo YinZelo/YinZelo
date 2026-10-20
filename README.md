@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy TU_NOMBRE 👋</h1>
-<h3 align="center">Estudiante de Ingeniería de Software</h3>
+<h1 align="center">Hola, soy Jean Zevallos 👋</h1>
+<h3 align="center">Ingeniero de Software y Redes</h3>
 
 <p align="center">
   <a href="https://TU_LINKEDIN" target="_blank">
@@ -11,20 +11,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenieria+de+Software;Desarrollo+web+full+stack;Bases+de+datos+relacionales;Siempre+aprendiendo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software+y+Redes;Desarrollo+web+full+stack;Infraestructura+y+redes;Analisis+de+datos+y+BI" />
 </p>
 
 ---
 
 ### Sobre mí
 
-Estudiante de noveno ciclo de Ingeniería de Software. Me interesa el desarrollo de software, las bases de datos y las redes.
+Mi stack principal es desarrollo web full stack con **JavaScript, Node.js y PHP sobre MySQL**. Tengo base sólida en **Java y C++** por formación, y manejo **Excel, Power BI y Packet Tracer** como herramientas complementarias.
 
-- 💻 Desarrollo web full stack con **JavaScript, Node.js y PHP**
-- 🗄️ Manejo de bases de datos relacionales **SQL Server y MySQL**
-- 📱 Desarrollo de apps Android con **Kotlin**
-- 📊 Análisis de datos con **Power BI y Excel**
-- 🌐 Redes y simulación de topologías con **Cisco Packet Tracer**
+- 🔭 Construyendo aplicaciones web de punta a punta: aplicación e infraestructura
+- 🌐 Diseño y simulación de topologías de red con **Cisco Packet Tracer**
+- 🗄️ Modelado y consultas sobre bases de datos relacionales
+- 📊 Análisis de datos y dashboards con **Power BI y Excel**
+- 📱 Desarrollo móvil nativo en **Kotlin** como base de formación
 - 📫 Contáctame en **TU_CORREO**
 
 ---
@@ -50,7 +50,7 @@ Estudiante de noveno ciclo de Ingeniería de Software. Me interesa el desarrollo
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
-### Herramientas
+### Herramientas complementarias
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
