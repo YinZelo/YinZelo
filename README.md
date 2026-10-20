@@ -22,7 +22,7 @@
 
 ### 💻 Enfoque actual
 
-Estudiante de último año de Ingeniería de Software, orientando mi carrera hacia **ciberseguridad, redes y Linux**. Mantengo una base sólida en desarrollo full stack, que uso como ventaja para automatizar, entender sistemas y construir herramientas propias.
+Estudiante de último año de Ingeniería de Software, orientando mi carrera hacia **ciberseguridad, redes y Linux**. Mantengo una base en el desarrollo full stack, que uso como ventaja para automatizar, entender sistemas y construir herramientas propias.
 
 - 🛡️ En formación activa en ciberseguridad — **TryHackMe** y **Hack The Box**
 - 🌐 Diseño de topologías de red y simulación con **Cisco Packet Tracer**
