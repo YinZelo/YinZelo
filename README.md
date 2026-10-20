@@ -6,7 +6,7 @@
 <h1 align="center">Hola, soy Jean Zevallos 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenieria+de+Software;Base+en+el+desarrollo+de+Ciberseguridad+,+Redes+y+full+stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenieria+de+Software;Base+en+el+desarrollo+de+Ciberseguridad+y+full+stack" />
 </p>
 
 <p align="center">
