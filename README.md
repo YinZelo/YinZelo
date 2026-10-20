@@ -6,7 +6,7 @@
 <h1 align="center">Hola, soy Jean Zevallos 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenieria+de+Software;Base+en+el+desarrollo+de+Ciberseguridad+y+full+stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenieria+de+Software;Base+en+el+desarrollo+de+full+stack+y+Redes" />
 </p>
 
 <p align="center">
@@ -34,14 +34,6 @@ Estudiante de último año de Ingeniería de Software, orientando mi carrera hac
 
 ### 🛠️ Tecnologías y Entornos
 
-#### 🛡️ Ciberseguridad
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-
 #### 🌐 Redes
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -49,11 +41,10 @@ Estudiante de último año de Ingeniería de Software, orientando mi carrera hac
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
-#### 🐧 Linux & Sistemas
+#### 🐧 Sistemas
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
@@ -63,6 +54,7 @@ Estudiante de último año de Ingeniería de Software, orientando mi carrera hac
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
