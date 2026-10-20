@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Jean Zevallos 👋</h1>
-<h3 align="center">Software Engineer & Redes</h3>
+<h3 align="center">Ingeniero de Software y Redes</h3>
 
 <p align="center">
   <a href="https://TU_LINKEDIN" target="_blank">
@@ -8,26 +8,42 @@
   <a href="mailto:TU_CORREO@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=blue" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desarrollo+web+con+JS%2C+Node.js+y+PHP;Bases+de+datos+SQL+Server+y+MySQL;Apps+Android+en+Kotlin;Analisis+de+datos+con+Power+BI+y+Excel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Ingeniero+de+Software+y+Redes;Desarrollo+web+y+aplicaciones;Infraestructura+y+redes;Analisis+de+datos+y+BI" />
 </p>
 
 ---
 
 ### Sobre mí
 
-- 🔭 Desarrollando proyectos web full stack con **JavaScript, Node.js y PHP**
-- 🌱 Profundizando en **bases de datos relacionales y arquitectura backend**
-- 📊 También hago análisis de datos con **Power BI, Excel y SQL**
-- 📱 Desarrollo apps móviles nativas en **Kotlin**
-- 🌐 Conocimientos de redes con **Cisco Packet Tracer**
+Ingeniero de software y redes enfocado en construir sistemas que funcionan de punta a punta: desde la aplicación hasta la infraestructura que la sostiene.
+
+- 🔭 Desarrollando aplicaciones web con **JavaScript, Node.js, PHP y Java**
+- 🌐 Diseño y simulación de **topologías de red** con Cisco Packet Tracer
+- 🗄️ Modelado y administración de **bases de datos SQL Server y MySQL**
+- 📱 Desarrollo móvil nativo en **Kotlin**
+- 📊 Análisis de datos y dashboards con **Power BI y Excel**
 - 📫 Contáctame en **TU_CORREO**
 
 ---
 
-### Frontend
+### Áreas de especialidad
+
+| Área | Enfoque |
+|------|---------|
+| Desarrollo de software | Aplicaciones web full stack, backend y apps móviles |
+| Redes e infraestructura | Diseño de topologías, simulación y conectividad |
+| Bases de datos | Modelado relacional, consultas y administración |
+| Datos y BI | Análisis, visualización y reportería |
+
+---
+
+### Stack técnico
+
+**Frontend**
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,7 +51,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Backend
+**Backend**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -44,31 +60,31 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-### Bases de datos
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Móvil
+**Móvil**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
-### Datos y Business Intelligence
+**Bases de datos**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Redes e infraestructura**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+**Datos y Business Intelligence**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-
-### Redes
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ---
