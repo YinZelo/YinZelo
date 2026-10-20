@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Jean Zevallos 👋</h1>
-<h3 align="center">Desarrollador Full Stack & Analista de Datos</h3>
+<h3 align="center">Software Engineer & Redes</h3>
 
 <p align="center">
   <a href="https://TU_LINKEDIN" target="_blank">
