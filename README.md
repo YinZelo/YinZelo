@@ -5,16 +5,16 @@
 
 <h1 align="center">Hola, soy Jean Zevallos 👋</h1>
 
-<!-- Efecto de texto con movimiento (Typing SVG) -->
+//Efecto de texto con movimiento (Typing SVG)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenieria+de+Software;Ciberseguridad+y+Redes+en+formacion;Linux+todos+los+dias;Base+solida+en+desarrollo+full+stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenieria+de+Software;Ciberseguridad+,+Redes+y+Linux+en+formacion;Base+en+desarrollo+full+stack" />
 </p>
 
 <p align="center">
   <a href="https://TU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO@ejemplo.com">
+  <a href="mailto:micorreo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -26,11 +26,10 @@
 Estudiante de último año de Ingeniería de Software, orientando mi carrera hacia **ciberseguridad, redes y Linux**. Mantengo una base sólida en desarrollo full stack, que uso como ventaja para automatizar, entender sistemas y construir herramientas propias.
 
 - 🛡️ En formación activa en ciberseguridad — **TryHackMe** y **Hack The Box**
-- 🐧 Linux como entorno principal de trabajo diario
 - 🌐 Diseño de topologías de red y simulación con **Cisco Packet Tracer**
 - 🧪 Home lab propio con virtualización, VLANs y firewall
 - 💻 Base en desarrollo web full stack: **JavaScript, Node.js, PHP y MySQL**
-- 📫 Contáctame en **TU_CORREO**
+- 📫 Contáctame en **micorreo@gmail.com**
 
 ---
 
