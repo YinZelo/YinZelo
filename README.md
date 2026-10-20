@@ -1,5 +1,14 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=3,15,30&height=120&section=header&text=Security,%20Networks%20&%20Linux&fontSize=26&fontColor=36BCF7&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
 <h1 align="center">Hola, soy Jean Zevallos 👋</h1>
-<h3 align="center">Ingeniería de Software → Ciberseguridad, Redes y Linux</h3>
+
+<!-- Efecto de texto con movimiento (Typing SVG) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenieria+de+Software;Ciberseguridad+y+Redes+en+formacion;Linux+todos+los+dias;Base+solida+en+desarrollo+full+stack" />
+</p>
 
 <p align="center">
   <a href="https://TU_LINKEDIN" target="_blank">
@@ -10,13 +19,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenieria+de+Software;Ciberseguridad+y+Redes+en+formacion;Linux+todos+los+dias;Base+solida+en+desarrollo+full+stack" />
-</p>
-
 ---
 
-### Enfoque actual
+### 💻 Enfoque actual
 
 Estudiante de último año de Ingeniería de Software, orientando mi carrera hacia **ciberseguridad, redes y Linux**. Mantengo una base sólida en desarrollo full stack, que uso como ventaja para automatizar, entender sistemas y construir herramientas propias.
 
@@ -29,8 +34,9 @@ Estudiante de último año de Ingeniería de Software, orientando mi carrera hac
 
 ---
 
-### Ciberseguridad
+### 🛠️ Tecnologías y Entornos
 
+#### 🛡️ Ciberseguridad
 <p align="left">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -38,16 +44,14 @@ Estudiante de último año de Ingeniería de Software, orientando mi carrera hac
   <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
-### Redes
-
+#### 🌐 Redes
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
-### Linux
-
+#### 🐧 Linux & Sistemas
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -55,8 +59,7 @@ Estudiante de último año de Ingeniería de Software, orientando mi carrera hac
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### Desarrollo (mi base)
-
+#### 💻 Desarrollo (Base Full Stack)
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -66,25 +69,19 @@ Estudiante de último año de Ingeniería de Software, orientando mi carrera hac
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Base universitaria
-
+#### 🎓 Base Universitaria & Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
-
-### Herramientas
-
-<p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 ---
 
-### Plataformas
+### 🏆 Plataformas de Práctica
 
 <p align="center">
   <a href="https://tryhackme.com/p/TU_USUARIO_THM" target="_blank">
@@ -97,7 +94,7 @@ Estudiante de último año de Ingeniería de Software, orientando mi carrera hac
 
 ---
 
-### Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
